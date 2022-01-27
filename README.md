@@ -1,1 +1,1 @@
-First React App with hooks. Try the link : https://zabarullah.github.io/robofriends-app-hooks/
+Robofriends app re-created with Redux and used Redux-Thunk Middleware
